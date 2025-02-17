@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Computer vision applied to agricultural sciences.
 - 🤔 I’m looking for help with Computer Vision applied to agricultural sciences.
 - 💬 Ask me about Deep Learning, Computer Vision, Detection Object. 
-- 📫 How to reach me: manolomunoz651@gmail.com - +593 991383941 - Ambato/Ecuador
+- 📫 How to reach me: manolomunoz651@gmail.com - +593 991383941 - Ambato/Ecuador - https://www.youtube.com/@maquinas_que_ven
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I play soccer, I run .....
 
