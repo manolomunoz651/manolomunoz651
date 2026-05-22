@@ -4,8 +4,8 @@
 
 <h1 align="center">Hola soy ..... 👋 <a href="https://www.youtube.com/@maquinas_que_ven/" target="blank">
 MANOLO</a></h1>
-<h3 align="center">Un apasionado por la VISIÓN POR COMPUTADOR - DEEP LEARNING - OPENCV</h3>
-<h3 align="center">A passionate about COMPUTER VISION - DEEP LEARNING - OPENCV</h3>
+<h3 align="center">Un apasionado por la VISIÓN POR COMPUTADOR - DEEP LEARNING - OPENCV - CIENCIA DE DATOS</h3>
+<h3 align="center">A passionate about COMPUTER VISION - DEEP LEARNING - OPENCV - DATA SCIENCE</h3>
 
 
 <h1>About Me! 😎</h1>
